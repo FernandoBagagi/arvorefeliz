@@ -2,7 +2,7 @@
 
 Esse repositório foi criado para armazenar o projeto final da disciplina de computação gráfica utilizando o OpenGl.
 
-O programa mostra o nome da árvove e uma breve descição da mesma. A árvore pode ser mudada através do menu que aparece ao clicar com o botão direito do mouse. São duas árvores: Pau-Brasil e Ipê Amarelo. Para iniciar o questionário é preciso apertar a tecla insert. As opções podem ser selecionadas através das teclas (a, b ou c) ou podem ser mudadas através das setinhas pra cima ou pra baixo. Ao selecionar uma alternativa e apertar enter a questão é mudada. Se a alternativa estiver correta então a árvore cresce, se estiver parcialmente certa ela não é alterada porém se estiver errada ela começa a morrer (diminui e muda de cor). Se o usuário errar três vezes consecutivas a árvore morre.
+O programa mostra o nome da árvore e uma breve descrição da mesma. A árvore pode ser mudada através do menu que aparece ao clicar com o botão direito do mouse. São duas árvores: Pau-Brasil e Ipê Amarelo. Para iniciar o questionário é preciso apertar a tecla insert. As opções podem ser selecionadas através das teclas (a, b ou c) ou podem ser mudadas através das setinhas pra cima ou pra baixo. Ao selecionar uma alternativa e apertar enter a questão é mudada. Se a alternativa estiver correta então a árvore cresce, se estiver parcialmente certa ela não é alterada porém se estiver errada ela começa a morrer (diminui e muda de cor). Se o usuário errar três vezes consecutivas a árvore morre.
 
 Grupo composto por:
 -> Fernando de Jesus Bagagi
